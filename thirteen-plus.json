@@ -1,0 +1,20 @@
+{
+    "error": false,
+    "maintainers": [
+        {
+            "main_maintainer": true,
+            "github_username": "rio004",
+            "name": "Rio"
+        }
+    ],
+    "donate_url": "https://www.paypal.com/paypalme/RioG113",
+    "website_url": "https://github.com/dm700-devs/OTA/releases",
+    "news_url": "https://t.me/PixelExperience",
+    "datetime": 1686824326,
+    "filename": "PixelExperience_Plus_camellia-13.0-20230615-1018-UNOFFICIAL.zip",
+    "id": "b34ebf24081f889eb2bcae45852fa1c639b20944820a49e155f35e4f320900c3",
+    "size": 1441297067,
+    "url": "https://github.com/dm700-devs/OTA/releases/download/PixelExperience_Plus_camellia-13.0-20230615-1018-UNOFFICIAL.zip",
+    "version": "thirteen",
+    "filehash": "b8a3033267b509a9a7170e5cc28558a2512d2c502f229af93c7641e2861ecbd7"
+}
