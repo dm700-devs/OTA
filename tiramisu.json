@@ -1,12 +1,12 @@
 {
     "error": false,
-    "datetime": 1688135780,
-    "filename": "evolution_camellia-ota-tq3a.230605.012-06301437-community-unsigned.zip",
-    "id": "5e5e86f4980fdca95d9148bbd7d425aae119a60f9c8cf643f95e2ab627d07ae6",
-    "size": 1781186156,
-    "url": "https://github.com/dm700-devs/OTA/releases/download/3.0/evolution_camellia-ota-tq3a.230605.012-06301437-community-unsigned.zip",
+    "datetime": 1689202689,
+    "filename": "evolution_camellia-ota-tq3a.230705.001.b4-07122258-community-unsigned.zip",
+    "id": "d2a2fb8dfb83307c82f130312928803744bd78fe2d0f1cae82cc33bfcb566cd8",
+    "size": 1772805395,
+    "url": "https://github.com/dm700-devs/OTA/releases/download/4.0/evolution_camellia-ota-tq3a.230705.001.b4-07122258-community-unsigned.zip",
     "version": "Thirteen",
-    "filehash": "c914ba1ec66be8ac1aff39dac2a02e09",
+    "filehash": "6e711aeee34ecf712f7b2f4a52bc41d4",
     "maintainer": "Riyon George (rio113)",
     "donate_url": "https://www.paypal.com/paypalme/RioG113",
     "maintainer_url": "https://forum.xda-developers.com/m/riyon_george.10000954/",
@@ -14,3 +14,4 @@
     "news_url": "https://t.me/EvolutionXOfficial",
     "website_url": "https://github.com/dm700-devs/OTA/releases"
 }
+
