@@ -4,17 +4,17 @@
         {
             "main_maintainer": true,
             "github_username": "rio004",
-            "name": "Riyon George"
+            "name": "Rio"
         }
     ],
     "donate_url": "https://www.paypal.com/paypalme/RioG113",
     "website_url": "https://github.com/dm700-devs/OTA/releases",
     "news_url": "https://t.me/PixelExperience",
-    "datetime": 1686850432,
-    "filename": "PixelExperience_Plus_camellia-13.0-20230615-1733-UNOFFICIAL.zip",
-    "id": "8987b31ce11de852b2b1551a79eeba8700908cf173131c8aa85d32962a8ebd1f",
-    "size": 1441290405,
-    "url": "https://github.com/dm700-devs/OTA/releases/download/1.0/PixelExperience_Plus_camellia-13.0-20230615-1733-UNOFFICIAL.zip",
+    "datetime": 1689240800,
+    "filename": "PixelExperience_Plus_camellia-13.0-20230713-0934-UNOFFICIAL.zip",
+    "id": "ef46a45992cde18a80f3894e94e252f3a28bf6fe4f7b73e2da09649e12d49316",
+    "size": 1461174385,
+    "url": "https://github.com/dm700-devs/OTA/releases/download/5.0/PixelExperience_Plus_camellia-13.0-20230713-0934-UNOFFICIAL.zip",
     "version": "thirteen",
-    "filehash": "803c6f127beb015ae55e70923b50abb0435c65796adb65152a0b01eec2e65e6e"
+    "filehash": "090ba2bd9317c075ad7f84602bd16b435d1ec7c3fc3eae121f44c46b542cc774"
 }
